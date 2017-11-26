@@ -1,0 +1,1 @@
+name: Sami Khuritid = 2 url: http://www.ratemyprofessors.com/ShowRatings.jsp?tid=2
